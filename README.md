@@ -7,7 +7,6 @@ This project implements a deep learning-based sentiment analysis system for Arab
 - Data augmentation to handle class imbalances.
 - A deep learning architecture with embedding, LSTM, and attention layers.
 - Evaluation of model performance on test data.
-- Deployment-ready model for real-time predictions.
 
 ---
 
